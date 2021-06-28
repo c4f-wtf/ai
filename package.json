@@ -27,7 +27,7 @@
     "mobx": "^5.15.4",
     "monaco-editor": "^0.21.2",
     "monaco-editor-webpack-plugin": "^1.9.0",
-    "prismjs": "^1.23.0",
+    "prismjs": "^1.24.0",
     "pwa-helpers": "^0.9.1",
     "raw-loader": "^4.0.0",
     "redux": "^4.0.5",
